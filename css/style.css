@@ -1,0 +1,34 @@
+.section{
+    background-color: darkred;
+}
+
+.img{
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+  }
+
+  .img2{
+    width: 200px;
+    height: 300px;
+    object-fit: contain ;
+  }
+
+  .im3{
+    width: 200px;
+    height: 300px;
+    object-fit: fill;
+  } 
+
+
+
+
+
+
+
+
+
+
+
+
+
